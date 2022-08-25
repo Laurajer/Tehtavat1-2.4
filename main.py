@@ -44,6 +44,4 @@ print(f"Lukujen summa on {area2: .0f}")
 print(f"Lukujen tulo on {area3: .0f}")
 print(f"Lukujen keskiarvo on {area4: .3f}")
 
-# 2.5
-
 
